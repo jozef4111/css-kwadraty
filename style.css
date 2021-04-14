@@ -1,0 +1,18 @@
+body {
+    background-color: #808080;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+#corners1 {
+    width: 180px;
+    height: 150px;
+    background-color: #fea500;
+    margin: 10px auto;
+}
+
+.top {
+    width: 100%;
+}
